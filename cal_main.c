@@ -4,6 +4,7 @@
 
 int main(int argc, char *argv[])
 {
+    //20183363 ko
     int a = atoi(argv[1]);
     int b = atoi(argv[2]);
 
